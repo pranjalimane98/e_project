@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("./images/img7.jpg");
+}
+body center h1{
+    color: crimson;
+}
+div{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    margin: 0 auto;
+    padding: 120px;
+    box-sizing: border-box;
+    color: white;
+}
